@@ -8,6 +8,36 @@
 
 </div>
 
+## 16:9 左右双联样张
+
+以下四张为独立素材，完整 16:9 画布：左为现实摄影，右为本 Panel 设计转译，严格 50:50。文案由模型按原始提示词从当前照片智能生成。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 207 样张 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 207 样张 6"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 207 样张 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 207 样张 8"></td>
+  </tr>
+</table>
+
+## 3:4 上下双联样张
+
+以下四张使用与 16:9 组完全不同的四张独立素材，重新生成完整 3:4 上下双联画布；上部保留现实摄影，下部遵循本 Panel 原始提示词重构。英文配字只从当前照片的内容、情绪或隐喻中生成。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 207 新增上下样张 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 207 新增上下样张 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 207 新增上下样张 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 207 新增上下样张 4"></td>
+  </tr>
+</table>
+
 ## 适用场景与解决的问题
 
 适合个人摄影整理、独立出版、展览练习和生活方式视觉创作。原图构图普通、背景杂乱或主体偏小，也可以通过删减、重组、裁切和尺度变化重新建立重点，而不是把照片套上滤镜。
@@ -63,31 +93,42 @@ npx skills add https://github.com/nevertoday/xxd-panel-207 --skill xxd-panel-207
 <!-- xxd-readme-ads:start -->
 ## 关于 XXD
 
-XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@xiaoxiaodong01](https://x.com/xiaoxiaodong01).
+XXD 是小小东品牌名的缩写，本项目由小小东创建并维护：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01)。
 
-## 广告信息｜XXD 付费服务与会员
+## 小小东多端会员 · 699 元/年
 
 > **广告与商业信息声明：** 以下二维码、会员与付费服务链接属于小小东的广告信息。是否扫码或购买完全自愿，不影响本开源项目的访问与使用。
 
+一次年费，同时开通三项会员权益：**知识星球 + 小小东成员提示词库 + 全部 General Skills 会员**。三项权益合并在同一份会员中，无需分别购买。
 
 <!-- xxd-panel-command-system:start -->
 
-将军 Skills 已包含在 699 元/年的统一会员权益中，无需单独购买。
+### Skills 如何协作
 
-| 层级 | Skill | 负责什么 |
+| 层级 | 包含内容 | 用途 |
 |---|---|---|
-| **将军级** | [`xxd-panel-all`](https://github.com/xiaoxiaodong-ai/xxd-panel-all) | 识别当前可用的编号 Skills；按图片、主题和用途推荐；按编号点将；组织同图多风格试稿；为图片文件夹批量分配并逐项派发。 |
-| **士兵级** | `xxd-panel-NNN` | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
+| **General** | [`xxd-panel-all`](https://github.com/xiaoxiaodong-ai/xxd-panel-all) | 识别可用的编号 Skills，按图片、主题和用途推荐，并组织多风格试稿与批量任务。 |
+| **Soldier** | `xxd-panel-NNN` | 每个编号执行自己的原始提示词与审美，完成 General 分派的具体任务。 |
 
 <!-- xxd-panel-command-system:end -->
 
-### 知识星球＋成员提示词库＋Skills 所有将军会员 · 699 元/年
+### 会员权益
 
-[知识星球](https://wx.zsxq.com/group/15554814142882)、[小小东成员提示词库](https://vip.xiaoxiaodong.ai/)与 Skills 所有将军会员是同一份会员权益：**一次年费同时开通三项权益，无需重复付费。**
+1. **让小小东成为你的 AI 学习顾问**
+   在[知识星球](https://wx.zsxq.com/group/15554814142882)里随时提问，围绕 AI 学习、工具使用和实际项目获得答疑与建议。我会持续回复，并把有代表性的问题整理回会员内容中。
+2. **持续更新的成员提示词库**
+   [小小东成员提示词库](https://vip.xiaoxiaodong.ai/)当前约有 3.2 万条提示词，会持续整理和扩充，目标超过 10 万条。
+3. **全部 General Skills 与使用答疑**
+   一份会员覆盖全部 General Skills；使用过程中遇到问题，可以获得相应的使用说明与答疑。
+4. **高频刚需优先处理**
+   会员提出的高频、刚需提示词与 Skills 需求，会优先评估和开发。
 
-[Knowledge Planet](https://wx.zsxq.com/group/15554814142882) · [Member Prompt Library](https://vip.xiaoxiaodong.ai/)
+### 如何开通
 
-<p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
+- 可在[成员网站](https://vip.xiaoxiaodong.ai/)自助开通。
+- 也可以扫描下方二维码联系小小东，由我协助开通。
+
+<p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="联系小小东" width="280"></a></p>
 <!-- xxd-readme-ads:end -->
 
 ## 许可证

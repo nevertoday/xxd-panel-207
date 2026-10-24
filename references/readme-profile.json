@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 207｜Airy Blue Mixed-media Collage Insert: compresses a photo into one small, centred mixed-media collage block, like a magazine insert, journal page or collage card — photo fragments, fine black line drawing, handwritten-style notes, paper pieces and a few collage shapes, cropped or combined — with only a few extra line marks, paper scraps, arrows, symbols or tiny notes around it and the odd hint of tape or sticky note. Light blue, misty blue, powder blue, white or off-white carry the page, fine black lines give structure, a little deep blue adds rhythm and a touch of pale yellow or soft gold may accent it, all in wide whitespace with small relaxed handwritten-style captions. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-207 or asks for airy mixed-media collage, scrapbook or zine-style editorial inserts from a photo.",
+  "short_description": "浅蓝白混合媒介插页：把照片做成居中的一小块照片加线稿拼贴，浅蓝白底，配手写式注记",
+  "zh-CN": {
+    "name": "浅蓝白混合媒介插页",
+    "tagline": "把照片做成居中的一小块照片加线稿拼贴，像浅蓝白底上的一页杂志插页。",
+    "look": "真正的主体缩在下半部分中央的一小块，像杂志插页、手账内页或拼贴卡片，由照片片段、细黑线线稿、手写式标注、纸片和少量拼贴形状组成，可以裁切、压缩或组合。周围只有极少的辅助线稿、纸片、箭头、符号或小字，偶尔有一点胶带或便笺感。底色是浅蓝、雾蓝、粉蓝、白色或米白，黑色细线搭结构，少量深蓝加节奏，偶尔一点浅黄或淡金。四周大量留白，配几处细小松弛的手写感注释。",
+    "traits": [
+      "混合媒介拼贴",
+      "照片加线稿",
+      "浅蓝白主调",
+      "居中小画幅",
+      "手写注记"
+    ],
+    "good": [
+      "有回忆和小细节的日常照：旅途中、咖啡馆、街角、海边",
+      "适合配上手写注释的主体：一张车票、一杯饮料、一只猫、一栋小楼",
+      "想做手账、杂志插页或 zine 页面的照片"
+    ],
+    "poor": [
+      "色彩浓烈、想保留原色的照片：夕阳、霓虹、彩色市集，结果会转向浅蓝白",
+      "想要满版拼贴或厚重手工堆叠的需求",
+      "需要原图完整清晰呈现的照片：证件照、商品主图"
+    ]
+  },
+  "en": {
+    "name": "Airy Blue Mixed-media Collage Insert",
+    "tagline": "Turns a photo into a small centred photo-and-line collage, like a magazine insert on pale blue and white.",
+    "look": "The real subject is shrunk into a small block in the middle, like a magazine insert, a journal page or a collage card, made of photo fragments, fine black line drawing, handwritten-style notes, scraps of paper and a few collage shapes; it can be cropped, compressed or combined. Around it are only a few extra line marks, paper pieces, arrows, symbols or small words, now and then with a hint of tape or a sticky note. The ground is light blue, misty blue, powder blue, white or off-white, fine black lines give structure, a little deep blue adds rhythm, and a touch of pale yellow or soft gold may appear. Wide whitespace surrounds it, with a few small, relaxed, handwritten-style notes.",
+    "traits": [
+      "Mixed-media collage",
+      "Photo plus line art",
+      "Light blue and white",
+      "Small centred block",
+      "Handwritten notes"
+    ],
+    "good": [
+      "Everyday photos full of memories and small details: on a trip, in a café, on a street corner, at the seaside",
+      "Subjects that suit a handwritten note: a ticket, a drink, a cat, a small building",
+      "Photos you want for a journal, magazine insert or zine page"
+    ],
+    "poor": [
+      "Strongly coloured photos whose colours you want to keep, such as sunsets, neon or colourful markets, since the result shifts to light blue and white",
+      "Requests for full-frame collage or heavy handmade layering",
+      "Photos that must be shown whole and sharp: ID photos, main product shots"
+    ]
+  },
+  "ja": {
+    "name": "淡い青と白の混合メディア挿絵",
+    "tagline": "写真を中央に置いた写真と線画の小さなコラージュにし、淡い青と白の地の雑誌の挿し込みページのようにします。",
+    "look": "本当の主役は画面中央の小さな一画にまとめられ、雑誌の挿し込みページ、手帳の中身、コラージュカードのように、写真の断片、細い黒の線画、手書き風の注記、紙片、少しのコラージュの形で構成されます。切り取ったり、縮めたり、組み合わせたりしてもかまいません。周りには補助の線画、紙片、矢印、記号、小さな文字がわずかにあるだけで、ときどきマスキングテープや付箋のような気配も入ります。地は淡い青、霧のような青、粉っぽい青、白、生成りで、細い黒線が構造をつくり、少しの濃い青でリズムを加え、淡い黄色や淡い金色をほんの少し差すこともあります。周りに大きな余白をとり、小さくゆるやかな手書き風の注釈を数か所添えます。",
+    "traits": [
+      "混合メディアのコラージュ",
+      "写真と線画",
+      "淡い青と白",
+      "中央の小さな画面",
+      "手書きの注記"
+    ],
+    "good": [
+      "思い出や小さな細部がある日常写真：旅の途中、カフェ、街角、海辺",
+      "手書きの注釈が似合う主役：切符、飲み物、猫、小さな建物",
+      "手帳、雑誌の挿し込みページ、ZINE のページにしたい写真"
+    ],
+    "poor": [
+      "色が強く、その色を残したい写真：夕日、ネオン、色とりどりの市場は、淡い青と白に寄った仕上がりになります",
+      "全面のコラージュや重厚な手作業の重ねを求める場合",
+      "全体をそのまま鮮明に見せる必要がある写真：証明写真、商品のメイン画像"
+    ]
+  },
+  "ko": {
+    "name": "연한 청백색 혼합 매체 삽화",
+    "tagline": "사진을 가운데에 놓인 작은 사진과 선화의 콜라주로 만들어 연한 파랑과 흰 바탕의 잡지 삽지처럼 꾸밉니다.",
+    "look": "진짜 주인공은 화면 가운데의 작은 한 칸으로 줄어들어 잡지 삽지, 다이어리 속지, 콜라주 카드처럼 사진 조각, 가는 검은 선화, 손글씨 같은 메모, 종잇조각, 약간의 콜라주 도형으로 이루어지며, 자르거나 줄이거나 조합해도 됩니다. 둘레에는 보조 선화, 종잇조각, 화살표, 기호, 작은 글자가 아주 조금 있을 뿐이고 가끔 마스킹테이프나 메모지 느낌이 더해집니다. 바탕은 연한 파랑, 안개 파랑, 파우더 블루, 흰색, 미색이고 가는 검은 선이 구조를 잡으며, 약간의 짙은 파랑으로 리듬을 주고 연한 노랑이나 옅은 금색을 조금 더할 수 있습니다. 둘레에 넓은 여백을 두고 작고 느슨한 손글씨 느낌의 주석을 몇 군데 둡니다.",
+    "traits": [
+      "혼합 매체 콜라주",
+      "사진과 선화",
+      "연한 파랑과 흰색",
+      "가운데 작은 화면",
+      "손글씨 메모"
+    ],
+    "good": [
+      "추억과 작은 디테일이 있는 일상 사진: 여행 중, 카페, 길모퉁이, 바닷가",
+      "손글씨 메모가 어울리는 주인공: 차표, 음료, 고양이, 작은 건물",
+      "다이어리, 잡지 삽지, 진(zine) 페이지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이 강하고 그 색을 지키고 싶은 사진: 노을, 네온, 알록달록한 시장은 결과가 연한 파랑과 흰색 쪽으로 바뀝니다",
+      "꽉 찬 콜라주나 두툼한 수작업 겹침을 원하는 경우",
+      "원본을 온전하고 선명하게 보여야 하는 사진: 증명사진, 상품 대표 이미지"
+    ]
+  },
+  "ar": {
+    "name": "صفحة كولاج بوسائط مختلطة وأزرق فاتح",
+    "tagline": "يحوّل الصورة إلى كولاج صغير في الوسط من صورة ورسم خطي، كصفحة مُدرجة في مجلة على أزرق فاتح وأبيض.",
+    "look": "يُصغَّر العنصر الحقيقي في كتلة صغيرة في الوسط، كصفحة مُدرجة في مجلة أو صفحة دفتر يوميات أو بطاقة كولاج، مؤلفة من شذرات فوتوغرافية ورسم خطي أسود رفيع وملاحظات بخط يشبه اليد وقصاصات ورق وبضعة أشكال ملصقة؛ ويمكن قصها أو ضغطها أو جمعها. لا يحيط بها إلا قليل من الخطوط المساعدة أو قصاصات الورق أو الأسهم أو الرموز أو الكلمات الصغيرة، وأحياناً لمحة من شريط لاصق أو ورقة ملاحظات. الأرضية أزرق فاتح أو أزرق ضبابي أو أزرق بودري أو أبيض أو أبيض مائل إلى الكريمي، تمنحها الخطوط السوداء الرفيعة بنيتها، ويضيف قليل من الأزرق الداكن إيقاعاً، وقد تظهر لمسة من الأصفر الفاتح أو الذهبي الناعم. يحيط بها فراغ واسع، مع ملاحظات صغيرة مسترخية بخط يشبه اليد.",
+    "traits": [
+      "كولاج بوسائط مختلطة",
+      "صورة مع رسم خطي",
+      "أزرق فاتح وأبيض",
+      "كتلة صغيرة في الوسط",
+      "ملاحظات بخط اليد"
+    ],
+    "good": [
+      "صور يومية مليئة بالذكريات والتفاصيل الصغيرة: في رحلة، في مقهى، عند ناصية شارع، على الشاطئ",
+      "عناصر تناسبها ملاحظة بخط اليد: تذكرة، مشروب، قطة، مبنى صغير",
+      "صور تريدها لدفتر يوميات أو صفحة مُدرجة في مجلة أو صفحة زين"
+    ],
+    "poor": [
+      "صور قوية الألوان تريد الاحتفاظ بألوانها، مثل الغروب والنيون والأسواق الملونة، لأن النتيجة تميل إلى الأزرق الفاتح والأبيض",
+      "طلب كولاج يملأ الإطار أو تراكب يدوي كثيف",
+      "صور يجب أن تظهر كاملة وواضحة: صور الهوية، الصور الرئيسية للمنتجات"
+    ]
+  }
+}
